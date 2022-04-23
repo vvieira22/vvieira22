@@ -17,7 +17,6 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)](https://www.python.org/)
 
-[![](https://img.shields.io/badge/Gmail-D14836?&logo=gmail&logoColor=white)](mailto:vitorgoncalvesvieira22@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/)
 
 
