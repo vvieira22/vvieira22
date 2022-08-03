@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 Atualmente trabalho com as linguagens proprietárias WMLScript e WML para desenvolvimento em maquininhas de cartão.
-- 🌱 Estou atualmente aumentando meu conhecimento em python, por um tempo trabalhei com Machine Learning usando python mas agora desejo fazer projetos voltados para web.
+- 🌱 Estou atualmente aumentando meu conhecimento em Python e Kotlin.
 - ⚡ Adoro programar, seja em uma nova linguagem ou uma já conhecida, gosto muito da sensação de ter que pesquisar, imaginar e colocar em prática coisas que estão na sua mente.
 
 
@@ -15,7 +15,9 @@
 [![](https://img.shields.io/badge/Twitch-9146FF?&logo=twitch&logoColor=white)](https://www.twitch.tv/crizon22)
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)](https://www.python.org/)
+[![](https://img.shields.io/badge/kotlin-%230095D5.svg?&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/)
 
