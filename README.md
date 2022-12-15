@@ -22,4 +22,9 @@
 [![](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/)
 
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vvieira22&show_icons=true&theme=aura&include_all_commits=true&count_private=true&custom_title=Github%20Status"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvieira22&layout=compact&langs_count=7&theme=aura&custom_title=Linguagens%20mais%20usadas"/>
+</div>
+</div>
 
