@@ -5,7 +5,7 @@
 </p>
 
 - 🔭 Atualmente trabalho com as linguagens proprietárias WMLScript e WML para desenvolvimento em maquininhas de cartão.
-- 🌱 Estou atualmente aumentando meu conhecimento em Python e Kotlin.
+- 🌱 Estou atualmente aumentando meu conhecimento em Python e Kotlin para Android.
 - ⚡ Adoro programar, seja em uma nova linguagem ou uma já conhecida, gosto muito da sensação de ter que pesquisar, imaginar e colocar em prática coisas que estão na sua mente.
 
 
@@ -16,6 +16,7 @@
 
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?style=flat-square&logo=Visual-Studio-Code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IntelliJIDEA-000000.svg?&logo=intellij-idea&logoColor=white)](https://www.jetbrains.com/idea/)
+[![](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)](https://developer.android.com/studio)
 [![](https://img.shields.io/badge/Python-3776AB?&logo=python&logoColor=white)](https://www.python.org/)
 [![](https://img.shields.io/badge/Kotlin-%230095D5.svg?&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
 
