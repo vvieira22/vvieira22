@@ -13,7 +13,7 @@
 - ⚡ Adoro programar, seja em uma nova linguagem ou uma já conhecida, gosto muito da sensação de ter que pesquisar, imaginar e colocar em prática coisas que estão na sua mente.
 
 
-[![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)](https://discord.gg/WKmNtFmUBc)
+<!--[![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)](https://discord.gg/WKmNtFmUBc) -->
 [![](https://img.shields.io/badge/Steam-000000?&logo=steam&logoColor=white)](https://steamcommunity.com/id/crizon22)
 [![](https://img.shields.io/badge/Crizon22-003791?&logo=playstation&logoColor=white)](https://www.playstation.com/pt-br/support/account/add-friends-psn/#send)
 [![](https://img.shields.io/badge/Twitch-9146FF?&logo=twitch&logoColor=white)](https://www.twitch.tv/crizon22)
