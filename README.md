@@ -1,8 +1,12 @@
 ### Olá, bem-vindo ao meu  perfil 👋.
 
 <p align="center">
-  <img width="360" height="200" src="https://c.tenor.com/SWnwEu1AdisAAAAC/misato-beer.gif">
+  <img width="360" height="200" src="https://brigadaligeiraestelar.files.wordpress.com/2023/01/121378-fc5a0a0d-5dbe-481f-aafa-ef0047587a56-profile.gif">
 </p>
+<!-- <p align="center">
+  <img width="360" height="200" src="https://media.tenor.com/AezZlqa4ZJYAAAAC/cowboy-bebop-hacker.gif">
+</p>
+ -->
 
 - 🔭 Atualmente trabalho com as linguagens proprietárias WMLScript e WML para desenvolvimento em maquininhas de cartão.
 - 🌱 Estou atualmente aumentando meu conhecimento em Python e Kotlin para Android.
