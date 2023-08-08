@@ -9,8 +9,8 @@
  -->
 
 - 🔭 Atualmente trabalho com as linguagens proprietárias WMLScript e WML para desenvolvimento em maquininhas de cartão.
-- 🌱 Estou atualmente aumentando meu conhecimento em Python e Kotlin para Android.
-- ⚡ Adoro programar, seja em uma nova linguagem ou uma já conhecida, gosto muito da sensação de ter que pesquisar, imaginar e colocar em prática coisas que estão na sua mente.
+- 🌱 Em paralelo estou aumentando meu conhecimento em Python e Kotlin / Android com estudos e projetos.
+- ⚡ Adoro programar, seja em uma nova linguagem ou uma já conhecida, gosto muito da sensação de ter que pesquisar, imaginar e colocar em prática coisas que estão na mente.
 
 
 <!--[![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)](https://discord.gg/WKmNtFmUBc) -->
