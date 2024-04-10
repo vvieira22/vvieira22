@@ -9,7 +9,6 @@
  -->
 
 - 🔭 Desenvolvedor, atualmente trabalho com linguagens proprietárias wmls e wml, para desenvolvimento do sistema de pagamento em maquininha de cartão. Possuo habilidades em Python e Kotlin, e atualmente estou aprimorando meus conhecimentos para desenvolver apps em Android.
-- 
 
 <!--[![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)](https://discord.gg/WKmNtFmUBc) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/)
