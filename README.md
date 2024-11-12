@@ -6,7 +6,7 @@
 </p>
  -->
 
-- 💻 Desenvolvedor, atualmente trabalhando com kotlin e android, para desenvolvimento de sistema de pagamentos em maquininhas de cartão (POS), além disso utilizo python para realização de scripts e automações.
+- 💻 Desenvolvedor, atualmente trabalhando com kotlin + android, no desenvolvimento de aplicativo de pagamentos para maquininhas de cartão (POS), além disso utilizo python para realização de scripts e automações.
 
 <!--[![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)](https://discord.gg/WKmNtFmUBc) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/)
