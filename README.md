@@ -1,5 +1,3 @@
-### Olá, bem-vindo ao meu  perfil 👋.
-
 <p align="center">
   <img width="360" height="200" src="https://brigadaligeiraestelar.files.wordpress.com/2023/01/121378-fc5a0a0d-5dbe-481f-aafa-ef0047587a56-profile.gif">
 </p>
@@ -8,7 +6,7 @@
 </p>
  -->
 
-- 🔭 Desenvolvedor, atualmente trabalho com linguagens proprietárias wmls e wml, para desenvolvimento do sistema de pagamento em maquininha de cartão. Possuo habilidades em Python e Kotlin, e atualmente estou aprimorando meus conhecimentos para desenvolver apps em Android.
+- 💻 Desenvolvedor, atualmente trabalhando com kotlin e android, para desenvolvimento de sistema de pagamentos em maquininhas de cartão (POS), além disso utilizo python para realização de scripts e automações.
 
 <!--[![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)](https://discord.gg/WKmNtFmUBc) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/)
@@ -26,11 +24,12 @@
 <p align="center">
   <a href="https://github.com/vvieira22"><img src="https://skillicons.dev/icons?i=github"/></a>
   <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git"/></a>
-  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python"/></a>
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio"/></a>
   <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin"/></a>
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python"/></a>
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode"/></a>
   <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://skillicons.dev/icons?i=idea"/></a>
-  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio"/></a>
+  <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins"/></a>
   <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman"/></a>
   <a href="https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://discord.com/users/277607401069477888"><img src="https://skillicons.dev/icons?i=discord"/></a>
