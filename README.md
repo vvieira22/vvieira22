@@ -34,13 +34,13 @@
   <a href="https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://discord.com/users/277607401069477888"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
-
+<!--
 <p align="center">
   <a href="https://steamcommunity.com/id/crizon22"><img src="https://img.shields.io/badge/Steam-000000?&logo=steam&logoColor=white"/></a>
   <a href="https://www.playstation.com/pt-br/support/account/add-friends-psn/#send"><img src="https://img.shields.io/badge/Crizon22-003791?&logo=playstation&logoColor=white"/></a>
   <a href="https://www.twitch.tv/crizon22"><img src="https://img.shields.io/badge/Twitch-9146FF?&logo=twitch&logoColor=white"/></a>
 </p>
-
+-->
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vvieira22&show_icons=true&theme=aura&include_all_commits=true&count_private=true&custom_title=Github%20Status"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvieira22&layout=compact&langs_count=7&theme=aura&custom_title=Linguagens%20mais%20usadas"/>
