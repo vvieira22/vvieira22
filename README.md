@@ -5,8 +5,8 @@
   <img width="360" height="200" src="https://media.tenor.com/AezZlqa4ZJYAAAAC/cowboy-bebop-hacker.gif">
 </p>
  -->
-
-- 💻 Desenvolvedor, atualmente trabalhando com kotlin + android, no desenvolvimento de aplicativo de pagamentos para maquininhas de cartão (POS), além disso utilizo python para realização de scripts e automações.
+Fullstack software engineer with solid experience in mobile development, application architecture, and scalable financial solutions. I have been working at Dock, developing high-impact products for the payments market, including Android SmartPOS, Pix, and digital wallets. My hands-on experience spans Flutter, Kotlin, Python, native Android, AWS, and CI/CD pipelines.
+<p></p>
 
 <!--[![](https://img.shields.io/badge/Discord-7289DA?&logo=discord&logoColor=white)](https://discord.gg/WKmNtFmUBc) 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/)
@@ -22,15 +22,21 @@
 -->
 
 <p align="center">
-  <a href="https://github.com/vvieira22"><img src="https://skillicons.dev/icons?i=github"/></a>
-  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git"/></a>
-  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio"/></a>
   <a href="https://kotlinlang.org"><img src="https://skillicons.dev/icons?i=kotlin"/></a>
+  <a href="https://flutter.dev/"><img src="https://skillicons.dev/icons?i=flutter"/></a>
   <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=python"/></a>
+  <a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi"/></a>
+  <a href="https://aws.amazon.com/"><img src="https://skillicons.dev/icons?i=aws"/></a>
+  <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker"/></a>
+  <a href="https://www.kernel.org/"><img src="https://skillicons.dev/icons?i=linux"/></a>
+  <a href="https://developer.android.com/studio"><img src="https://skillicons.dev/icons?i=androidstudio"/></a>
   <a href="https://code.visualstudio.com"><img src="https://skillicons.dev/icons?i=vscode"/></a>
   <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://skillicons.dev/icons?i=idea"/></a>
+  <a href="https://github.com/features/actions"><img src="https://skillicons.dev/icons?i=githubactions"/></a>
   <a href="https://www.jenkins.io/"><img src="https://skillicons.dev/icons?i=jenkins"/></a>
-  <a href="https://www.postman.com"><img src="https://skillicons.dev/icons?i=postman"/></a>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/vitor-gon%C3%A7alves-vieira-0556aa176/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
   <a href="https://discord.com/users/277607401069477888"><img src="https://skillicons.dev/icons?i=discord"/></a>
 </p>
