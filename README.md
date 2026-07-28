@@ -51,5 +51,10 @@ Fullstack software engineer with solid experience in mobile development, applica
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vvieira22&show_icons=true&theme=aura&include_all_commits=true&count_private=true&custom_title=Github%20Status"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vvieira22&layout=compact&langs_count=7&theme=aura&custom_title=Linguagens%20mais%20usadas"/>
 </div> -->
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vvieira22/vvieira22/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vvieira22/vvieira22/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/vvieira22/vvieira22/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 </div>
 
