@@ -1,8 +1,8 @@
 name: Generate arcade animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 168 hours
+    - cron: "* */168 * * *"
 
   workflow_dispatch:
 
